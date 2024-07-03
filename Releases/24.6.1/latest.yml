@@ -1,8 +1,8 @@
-version: 24.6.0
+version: 24.6.1
 files:
-  - url: Brightlayer-Machinery-Studio-Setup-24.6.0.exe
-    sha512: I9JqWuSU7VGh1jds2V1gedqHPD1zXh/WhQ1ktw3iSsQPsTOVizDbOxDmiZymfzByoGlAzYCbt1riAaubSEsupg==
-    size: 84094142
-path: Brightlayer-Machinery-Studio-Setup-24.6.0.exe
-sha512: I9JqWuSU7VGh1jds2V1gedqHPD1zXh/WhQ1ktw3iSsQPsTOVizDbOxDmiZymfzByoGlAzYCbt1riAaubSEsupg==
-releaseDate: '2024-07-03T07:27:22.934Z'
+  - url: Brightlayer-Machinery-Studio-Setup-24.6.1.exe
+    sha512: qPwNQrkVV6RLyNi6lbqEedvclDGK/s6f2RGg6gYNicD+NwzygkD5svojhRBsMt/b6+9PwxjWzIibjgESVdWJCg==
+    size: 84094583
+path: Brightlayer-Machinery-Studio-Setup-24.6.1.exe
+sha512: qPwNQrkVV6RLyNi6lbqEedvclDGK/s6f2RGg6gYNicD+NwzygkD5svojhRBsMt/b6+9PwxjWzIibjgESVdWJCg==
+releaseDate: '2024-07-03T09:24:52.638Z'
