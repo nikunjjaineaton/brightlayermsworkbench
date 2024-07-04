@@ -1,0 +1,5 @@
+
+Hi Nikunj, I did POC in this sprint have mentioned the points below. 
+Created a storage account on PCS digital common subscription established connection with the storage account with connection string,
+Crated a POC app service on common subscription for deploying and hosting web API.
+ like 1
